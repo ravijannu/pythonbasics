@@ -43,18 +43,6 @@ Introduction to Python - Syntax, working with Shell commands, Files, Text Proces
 * [Further Reading](./Further_Reading.md)
     * Standard topics not covered, Useful links on coding, Python extensions
 
-<br>
-
-## <a name="contributing"></a>Contributing
-
-* Please open an issue for typos/bugs/suggestions/etc
-    * Even for pull requests, open an issue for discussion before submitting PRs
-    * or [gitter group chat](https://gitter.im/learnbyexample/scripting_course) for discussion as well as for help/mentorship
-* Share the repo with friends/colleagues, on social media, etc to help reach other learners
-* In case you need to reach me, use [gitter private chat](https://gitter.im/learnbyexample)
-    * or mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode`
-
-<br>
 
 # <a name="ebook"></a>ebook
 
